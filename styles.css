@@ -1,0 +1,14 @@
+* {
+    color: rgb(230, 30, 236)
+}
+
+/* Class selectors start with a period and ID starts with pound sign */
+/*ID is specific and identifies one element. Class can be added to lots of things */
+
+#heading {
+    font-size: px;
+}
+
+.underline {
+    
+}
